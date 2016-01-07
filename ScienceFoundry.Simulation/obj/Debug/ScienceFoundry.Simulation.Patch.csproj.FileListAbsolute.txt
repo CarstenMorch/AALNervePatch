@@ -1,0 +1,10 @@
+C:\Source\SF\Patch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\bin\Debug\ScienceFoundry.Simulation.Patch.dll
+C:\Source\SF\Patch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\bin\Debug\ScienceFoundry.Simulation.Patch.pdb
+C:\Source\SF\Patch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\obj\Debug\ScienceFoundry.Simulation.Patch.csprojResolveAssemblyReference.cache
+C:\Source\SF\Patch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\obj\Debug\ScienceFoundry.Simulation.Patch.dll
+C:\Source\SF\Patch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\obj\Debug\ScienceFoundry.Simulation.Patch.pdb
+C:\Source\SF\simpatch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\bin\Debug\ScienceFoundry.Simulation.Patch.dll
+C:\Source\SF\simpatch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\bin\Debug\ScienceFoundry.Simulation.Patch.pdb
+C:\Source\SF\simpatch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\obj\Debug\ScienceFoundry.Simulation.Patch.csprojResolveAssemblyReference.cache
+C:\Source\SF\simpatch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\obj\Debug\ScienceFoundry.Simulation.Patch.dll
+C:\Source\SF\simpatch\trunk\ScienceFoundry.Simulation\ScienceFoundry.Simulation\obj\Debug\ScienceFoundry.Simulation.Patch.pdb
